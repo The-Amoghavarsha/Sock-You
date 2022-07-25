@@ -1,3 +1,12 @@
+<h1>Requirements</h1>
+
+```
+git
+curl
+jq
+```
+
+
 <h1>Installation</h1>
 
 ```
