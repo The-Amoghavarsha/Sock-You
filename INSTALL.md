@@ -2,6 +2,7 @@
 
 ```
 git
+figlet
 curl
 jq
 ```
